@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GowthamAthithya.github.io/static/css/main.29a5b393.css",
+    "main.js": "/GowthamAthithya.github.io/static/js/main.611a3359.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GowthamAthithya.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/GowthamAthithya.github.io/index.html",
+    "main.29a5b393.css.map": "/GowthamAthithya.github.io/static/css/main.29a5b393.css.map",
+    "main.611a3359.js.map": "/GowthamAthithya.github.io/static/js/main.611a3359.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GowthamAthithya.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29a5b393.css",
+    "static/js/main.611a3359.js"
+  ]
+}
