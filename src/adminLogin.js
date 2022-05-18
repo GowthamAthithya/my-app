@@ -23,13 +23,13 @@ function adminLogin(){
                     <label for="userName" >User Name</label>
                 </div>
                 <br/> <hr/>
-                <input type="text" id="userName" ></input>
+                <input type="text" id="userName" placeholder='username'></input>
                 <br/> <hr/>
                 <div className="label">
                     <lable for="password" >Password</lable>
                 </div>
                 <br/> <hr/>
-                <input type="password" id="password"></input>
+                <input type="password" id="password" placeholder='password'></input>
                 <br/> <hr/>
                 {/* <input type="submit" to="/listNavigation"></input> */}
                 <div className="submit-btn">

@@ -8,7 +8,7 @@
 }
 
 body{
-  background-color: rgba(205, 219, 237, 0.829);
+  background-color: rgba(208, 215, 235, 0.829);
 }
 
 .nav{
@@ -68,7 +68,7 @@ body{
 }
 
 .table-list{
-  margin-left: 12%;
+  margin: 0 2% 0 12%;
 }
 
 
