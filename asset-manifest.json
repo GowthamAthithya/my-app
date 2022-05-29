@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/GowthamAthithya.github.io/static/css/main.29a5b393.css",
-    "main.js": "/GowthamAthithya.github.io/static/js/main.611a3359.js",
-    "static/js/787.28cb0dcd.chunk.js": "/GowthamAthithya.github.io/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/GowthamAthithya.github.io/index.html",
-    "main.29a5b393.css.map": "/GowthamAthithya.github.io/static/css/main.29a5b393.css.map",
-    "main.611a3359.js.map": "/GowthamAthithya.github.io/static/js/main.611a3359.js.map",
-    "787.28cb0dcd.chunk.js.map": "/GowthamAthithya.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/ktinfotech_dashboard/static/css/main.d9f05fce.css",
+    "main.js": "/ktinfotech_dashboard/static/js/main.ff437b06.js",
+    "static/media/companyLogo.jpeg": "/ktinfotech_dashboard/static/media/companyLogo.642c93b31e448b4cae26.jpeg",
+    "index.html": "/ktinfotech_dashboard/index.html",
+    "main.d9f05fce.css.map": "/ktinfotech_dashboard/static/css/main.d9f05fce.css.map",
+    "main.ff437b06.js.map": "/ktinfotech_dashboard/static/js/main.ff437b06.js.map"
   },
   "entrypoints": [
-    "static/css/main.29a5b393.css",
-    "static/js/main.611a3359.js"
+    "static/css/main.d9f05fce.css",
+    "static/js/main.ff437b06.js"
   ]
 }
